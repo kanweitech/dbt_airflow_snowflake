@@ -1,6 +1,6 @@
 # dbt_airflow_snowflake
 
-
+![alt text](https://github.com/kanweitech/dbt_airflow_snowflake/blob/main/images/etl%20image.png)
 ## How to start the project
 1. clone the project
 - `git clone https://github.com/kanweitech/dbt_airflow_snowflake.git`
