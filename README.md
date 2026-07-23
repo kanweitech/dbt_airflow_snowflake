@@ -3,9 +3,9 @@
 
 ## How to start the project
 1. clone the project
-   `git clone https://github.com/kanweitech/dbt_airflow_snowflake.git`
-`pip install dbt-snowflake`
-`pip install dbt-core`
+- `git clone https://github.com/kanweitech/dbt_airflow_snowflake.git`
+- `pip install dbt-snowflake`
+- `pip install dbt-core`
 ### Using the starter project
 
 Try running the following commands:
