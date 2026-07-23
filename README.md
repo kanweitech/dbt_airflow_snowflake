@@ -12,7 +12,7 @@
 - `pip install dbt-snowflake`
 - `pip install dbt-core`
 4. Set up environment in snowflake
-![alt text](https://github.com/kanweitech/dbt_airflow_snowflake/blob/main/images/etl%20environment.png)
+![alt text](https://github.com/kanweitech/dbt_airflow_snowflake/blob/main/images/snowflake%20environment.png)
 5. Initialize dbt project
 - `dbt init`
 - Enter a name for your project
@@ -29,7 +29,7 @@
 
 ## Configure
 - `dbt_project.yml and packages`
-![alt text](https://github.com/kanweitech/dbt_airflow_snowflake/blob/main/images/etl%dbt_project yml.png)
+![alt text](https://github.com/kanweitech/dbt_airflow_snowflake/blob/main/images/dbt_project%20yml.png)
 
 ## How to start the project
 1. clone the project
